@@ -2,17 +2,17 @@
 body {
   margin: 0;
   font-family: 'Roboto', sans-serif;
-  background-color: #1a1f36; /* Dark Navy Blue */
+  background-color: #1B7476; /* Dark Navy Blue */
   line-height: 1.6;
   font-weight: 400;
-  color: #d8dee9; /* Off-White for text */
+  color: #FFFFFF; /* Off-White for text */
 }
 
 /* ----------------------------------------------
    Navigation Bar Styles
 ---------------------------------------------- */
 nav {
-  background-color: #1b1429; /* Darker navy for nav */
+  background-color: #141414; /* Darker navy for nav */
   padding: 1rem 65%;
   position: fixed;
   top: 0;
@@ -142,7 +142,7 @@ nav a.active {
 
 .right-column p {
   font-size: 1.1rem;
-  color: #9b1616; /* Slightly lighter gray */
+  color: #FFFFFF; /* Slightly lighter gray */
   margin-bottom: 1.5rem;
   text-align: justify;
 }
@@ -339,7 +339,7 @@ nav a.active {
    Footer Styles
 ---------------------------------------------- */
 footer {
-  background-color: #29304e;
+  background-color: #141414;
   color: #d8dee9;
   text-align: center;
   padding: 1rem;
